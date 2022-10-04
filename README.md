@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kaleem126
+- 👀 I’m interested in coding,development...
+- 🌱 I’m currently a CSE undergrad ...
+- 📫 How to reach me kaleemmir126@gmail.com ...
+
+<!---
+kaleem126/kaleem126 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
